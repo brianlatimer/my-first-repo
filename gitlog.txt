@@ -1,0 +1,24 @@
+git log
+commit ba94b8026c9cd0f8ef135e2287eda52e3a2b0dba
+Author: brianlatimer <w.brian.latimer@gmail.com>
+Date:   Tue Jan 26 13:22:26 2021 -0500
+
+    updated gitignore
+
+commit 223eb1c4e2b86cdf57abcf09bae641ad42f004a9
+Author: brianlatimer <w.brian.latimer@gmail.com>
+Date:   Tue Jan 26 13:19:38 2021 -0500
+
+    added gitignore
+
+commit d712e3f04b20b6e773f7435cb216167c06841864
+Author: brianlatimer <w.brian.latimer@gmail.com>
+Date:   Mon Jan 25 14:43:31 2021 -0500
+
+    added two files
+
+commit a6bae280f6e5278509dc6afbcae0e42a587bc56f
+Author: brianlatimer <w.brian.latimer@gmail.com>
+Date:   Mon Jan 25 14:38:52 2021 -0500
+
+    added readme.txt
