@@ -1,19 +1,25 @@
-# This is a large heading
+# Brian Latimer
 
-## This is a smaller heading
+### Geography
 
-And as  **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Bowmanville, Ontario. Canada.
 
-- this is
-- an ordered
-- list
+### Reading
 
-1. this is
-2. an ordered
-3. list
+Three of my favourite books are:
+- Cryptonomicon
+- Foundations Edge
+- Catchecism of the Catholic Church
+
+### Foods I Like
+
+1. Indian
+2. Thai
+3. Cottage roll
+
+### Contact
+Find me on Twitter, Facebook, Snapchat, Parler (banned), Telegram or Gab (both under attack). 
+Kidding. Social media is for morons.
 
 Here is `some code` in the middle of a sentence.
 
