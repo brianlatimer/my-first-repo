@@ -15,7 +15,7 @@ Three of my favourite books are:
 
 1. Indian
 2. Thai
-3. Cottage roll
+3. Cottage Roll.
 
 ### Contact
 Find me on Twitter, Facebook, Snapchat, Parler (banned), Telegram or Gab (both under attack). 
